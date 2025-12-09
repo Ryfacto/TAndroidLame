@@ -18,7 +18,7 @@ allprojects {
 #### app/build.gradle
 ```gradle
 dependencies {
-    implementation 'com.github.naman14:TAndroidLame:1.1'
+    implementation 'com.github.ryfacto:TAndroidLame:1.3'
 }
 ```
 
@@ -131,4 +131,3 @@ A wrapper class for actual native implementation and encoding
 >This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. 
 
 >You should have received a copy of the GNU General Public License along with this app. If not, see <https://www.gnu.org/licenses/>.
-

@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         github.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https:github.com/naman14/TAndroidLame")));
+                startActivity(new Intent(Intent.ACTION_VIEW).setData(Uri.parse("https:github.com/Ryfacto/TAndroidLame")));
             }
         });
 
